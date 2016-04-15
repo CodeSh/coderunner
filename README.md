@@ -39,4 +39,4 @@ If you want create some script to "coderunner", only you will create a Pull Requ
 Any suggestion only send me a telegram msg.
 
 
-[![https://github.com/jarriztg/coderunner](https://img.shields.io/github/issues/badges/shields.svg)](https://github.com/jarriztg/coderunner)
+[![https://telegram.me/jarriz](https://img.shields.io/badge/Telegram-%40Jarriz-green.svg)](https://telegram.me/jarriz)
