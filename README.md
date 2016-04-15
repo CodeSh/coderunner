@@ -6,7 +6,7 @@ If you want test a script write:
 
 ```bash
 # This is only to add some script
-wget https://github.com/jarriztg/coderunner/scripts/YOURSCRIPT.FORMAT
+wget https://github.com/jarriztg/coderunner/tree/master/scripts/SCRIPT.SH
 ```
 --------------------
 <td><strong>Test any script!</strong></td>
