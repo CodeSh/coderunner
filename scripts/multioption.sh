@@ -18,28 +18,28 @@ read VAR #read the variable with name "VAR"
 if [ "$VAR" = 1 ]; then # the first line need "if" to run the vars. If you need other variable, you need change the number "1"
   clear # clean the console.
   echo -e "\e[35m" #changing the color to purple.
-  sudo "Hi there!" #Here write a command. Do not apply the var "&&"
+  echo "Hi there!" #Here write a command. Do not apply the var "&&"
   read -n1 -r -p 'Press any key to exit' # pause and clean
   clear
   
 elif [ "$VAR" = 2 ]; then # then, the next variables need "elif"
   clear # Clean the console
   echo -e "\e[35m" #changing the color to purple.
-  sudo "Happy birthday!" #Here write a command. Do not apply the var "&&"
+  echo "Happy birthday!" #Here write a command. Do not apply the var "&&"
   read -n1 -r -p 'Press any key to exit' # pause and clean
   clear # clear all
   
 elif [ "$VAR" = 3 ]; then # remember this, the next variables need "elif"
   clear # Clean the console
   echo -e "\e[35m" #changing the color to purple.
-  sudo "Im jumping!" #Here write a command. Do not apply the var "&&"
+  echo "Im jumping!" #Here write a command. Do not apply the var "&&"
   read -n1 -r -p 'Press any key to exit' # pause and clean
   clear # clear all
   
 elif [ "$VAR" = 4 ]; then # remember this, the next variables need "elif"
   clear # Clean the console
   echo -e "\e[35m" #changing the color to purple.
-  sudo "Im playing!" #Here write a command. Do not apply the var "&&"
+  echo "Im playing!" #Here write a command. Do not apply the var "&&"
   read -n1 -r -p 'Press any key to exit' # pause and clean
   clear # clear all
   
