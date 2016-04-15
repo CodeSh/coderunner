@@ -36,7 +36,9 @@ chmod +x NAMEOFSCRIPT.SH
 
 If you want create some script to "coderunner", only you will create a Pull Request with the new file.
 
-Any suggestion only send me a telegram msg.
 
 
+
+Contact with me
+--------------------
 [![https://telegram.me/jarriz](https://img.shields.io/badge/Telegram-%40Jarriz-green.svg)](https://telegram.me/jarriz)
