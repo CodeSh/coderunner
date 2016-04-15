@@ -1,8 +1,19 @@
 Code Runner
 -------------------------
-This is only a scripts bash to linux.
+If you're searching how to learn bash programation, <td><strong>HERE</strong></td> this is the perfect place.
 
-If you want test a script write:
+
+<strong>All</strong> the scripts will have # (comments) to explain all the functions, only you will need edit the lines with your owns words.
+
+
+------------------
+What are you waiting for?
+------------------
+
+<strong>Start your own bash script easily!</strong> 
+
+
+If you want clone the scripts, type:
 
 ```bash
 # Clone CodeRunner with
@@ -26,3 +37,6 @@ chmod +x NAMEOFSCRIPT.SH
 If you want create some script to "coderunner", only you will create a Pull Request with the new file.
 
 Any suggestion only send me a telegram msg.
+
+
+[![https://github.com/jarriztg/coderunner](https://img.shields.io/github/issues/badges/shields.svg)](https://github.com/jarriztg/coderunner)
