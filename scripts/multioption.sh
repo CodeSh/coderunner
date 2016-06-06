@@ -6,7 +6,6 @@ clear
 echo -e "\e[32m" #Add some color, only you will need change the code "32"
 echo "Hey hi! Im a script test" #first message.
 echo "These are my options" #add more messages if you need it.
-echo "Hey hi! Im a script test"
 echo "1) Say Hi there"
 echo "2) Say Happy Birthday"
 echo "3) Say Im jumping"
